@@ -20,9 +20,9 @@ public class Ip_finder extends JFrame {
 
 	public static void main(String[] args) {
 		
-					Ip_finder frame = new Ip_finder();
-					frame.setVisible(true);
-			}
+			Ip_finder frame = new Ip_finder();
+			frame.setVisible(true);
+		}
 
 
 	public Ip_finder() {
